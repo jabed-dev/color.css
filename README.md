@@ -1,9 +1,9 @@
 # color.css
 
-```html
+```md
 https://jabed-dev.github.io/color.css/color.css
 ```
 
-```html
+```md
 https://jabed-dev.github.io/color.css/color.min.css
 ```
